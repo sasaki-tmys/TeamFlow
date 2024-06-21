@@ -1,8 +1,11 @@
 <script setup lang="ts">
+
 </script>
 
 <template>
-  <router-view />
+    <v-container>
+        <h1>Hey!!</h1>
+    </v-container>
 </template>
 
 <style scoped>
